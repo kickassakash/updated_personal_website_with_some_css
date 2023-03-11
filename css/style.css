@@ -1,0 +1,40 @@
+.box{
+    padding-top:150px;
+    background-color: #C9EEFF;
+}
+h1{
+    margin:0;
+    font-family: 'Sacramento', cursive;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+}
+body{
+    margin: 0;
+    background-color: #C9EEFF;
+    text-align:center;
+    font-family: 'Merriweather', serif;
+}
+.c1{
+    /* margin-left:450px; */
+    position:absolute;
+    left:950px;
+    top:100px;
+
+}
+.c2{
+    position:absolute;
+}
+.mt{
+    margin-top:10px;
+    height:450px;
+}
+.pff{
+    margin-top:30px;
+    height:300px;
+    width:auto;
+    border-radius: 100%;
+}

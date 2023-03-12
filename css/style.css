@@ -3,17 +3,23 @@
     background-color: #C9EEFF;
 }
 h1{
+    font-size:5rem;
+    color:#66BFBF;
     margin:0;
     font-family: 'Sacramento', cursive;
 }
 h2{
+    color:#66BFBF;
+    font-weight:normal;
     font-family: 'Montserrat', sans-serif;
 }
 h3{
+    color:#62CDFF;
     font-family: 'Montserrat', sans-serif;
 }
 body{
     margin: 0;
+    font-size:1rem;
     background-color: #C9EEFF;
     text-align:center;
     font-family: 'Merriweather', serif;
@@ -37,4 +43,23 @@ body{
     height:300px;
     width:auto;
     border-radius: 100%;
+}
+.footer-link{
+    color:#11999E
+}
+.linkk{
+    color:#66BFBF;
+
+}
+.cmp{
+    height:150px;
+    border-radius: 100%;
+    width:auto;
+    float:left;
+    margin-right:20px;
+    margin-bottom: 20px;
+}
+.skill-row{
+    text-align: left;
+    float:left;
 }
